@@ -1,8 +1,4 @@
 # DataScience
 Python. GoogleColab. ExploratoryAnalysis. Data preprocessing and visualization. Machine learning models and algorithms.
 
-EN ESTE REPOSITORIO IRÉ SUBIENDO POCO A POCO LOS DIVERSOS CONOCIMIENTOS QUE VOY ADQUIRIENDO A MEDIDA QUE ME ADENTRO EN EL MARAVILLOSO MNUNDO
-DEL DATASCIENCE Y EL MACHINE LEARNING.
-
-In this repository, I will be gradually uploading the various knowledge I acquire as I delve into the wonderful world of data science and machine learning.
-I recommend delving into the latest research papers, as they will undoubtedly showcase the advancements in this field.
+Initial approaches to machine learning: methodologies and models, preprocessing, exploratory analysis. Projects that serve as an excuse to put into practice what has been learned. None of these projects focuses on the results obtained
